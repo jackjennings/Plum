@@ -30,5 +30,3 @@ class Plum(object):
         
     def _position(self):
         return (self.glyph.width / 2, 0)
-
-Plum(CurrentGlyph()).toggle()
