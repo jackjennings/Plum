@@ -1,3 +1,5 @@
+from mojo.roboFont import CurrentFont
+
 class Plum(object):
     
     def __init__(self, glyph):
