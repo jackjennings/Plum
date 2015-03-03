@@ -1,3 +1,4 @@
-from plum.observers import PlumObserver
+from plum.observer import PlumObserver
+
 
 PlumObserver()

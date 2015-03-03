@@ -1,4 +1,6 @@
 from mojo.roboFont import CurrentGlyph
-from plum.models import Plum
+
+from plum import Plum
+
 
 Plum(CurrentGlyph()).toggle()
