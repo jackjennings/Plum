@@ -17,8 +17,6 @@
 	<string>Jack Jennings</string>
 	<key>developerURL</key>
 	<string>http://ja.ckjennin.gs</string>
-	<key>developerurl</key>
-	<string>http://ja.ckjennin.gs</string>
 	<key>html</key>
 	<true/>
 	<key>launchAtStartUp</key>
@@ -27,8 +25,13 @@
 	<string>_startup.py</string>
 	<key>name</key>
 	<string>Plum</string>
-	<key>repository</key>
-	<string>jackjennings/Plum</string>
+	<key>com.robofontmechanic.Mechanic</key>
+	<dict>
+		<key>repository</key>
+		<string>jackjennings/Plum</string>
+		<key>summary</key>
+		<string>A simple, centered, "plumb-line" glyph guide</string>
+	</dict>
 	<key>timeStamp</key>
 	<real>1381094151.372939</real>
 	<key>version</key>
